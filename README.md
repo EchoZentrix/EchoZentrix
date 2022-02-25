@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EchoooKGH
+- 👀 I’m interested in software devlopment and video editing.
+- 📕 I’m currently learning front-end and back-end programming.
+- 📩 You can reach me through my business email, **SoundWavesKGH@gmail.com**.
