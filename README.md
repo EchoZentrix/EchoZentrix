@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @EchoooKGH
-- 👀 I’m interested in software devlopment and video editing.
-- 📕 I’m currently learning front-end and back-end programming.
+- 👀 I’m interested in software devlopment, video editing and VFX.
+- 📕 I’m currently learning front-end programming and advanced motion graphics.
 - 📩 You can reach me through my business email, **SoundWavesKGH@gmail.com**.
+- 💼 I own my brand, _Echo Studios_.
+- 🎥 My YouTube channel is called _EchoooKGH_.
+- 🗣 You can call me Echo, and my name full username is pronounced as "_ek-kow kay-jee-aich_".
+- 🔗 And finally, here's a link to all my other stuff: **https://wlo.link/@EchoooKGH**
