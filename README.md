@@ -3,4 +3,4 @@
 - 📕 I’m currently learning front-end programming and advanced motion graphics.
 - 📩 You can reach me through my business email, **soundwaveskgh@gmail.com**.
 - 💼 I own my brand, Sonic Surge Studios.
-- 🔗 Here's a link to all my other stuff: **https://wlo.link/@EchoPulseX**
+- 🔗 Here's a link to all my other stuff: **zaap.bio/EchoPulseX**
