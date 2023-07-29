@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EchoooKGH
+- 👋 Hi! I’m EchoPulseX, but you can call me Echo.
 - 👀 I’m interested in software devlopment, video editing and VFX.
 - 📕 I’m currently learning front-end programming and advanced motion graphics.
 - 📩 You can reach me through my business email, **SoundWavesKGH@gmail.com**.
