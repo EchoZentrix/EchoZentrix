@@ -1,6 +1,6 @@
-- 👋 Hi! I’m EchoPulseX, but you can call me Echo.
+- 👋 Hi! I’m EchoZentrix, but you can call me Echo.
 - 👀 I’m interested in software devlopment, gaming, video editing, and VFX.
 - 📕 I’m currently learning front-end programming and advanced motion graphics.
 - 📩 You can reach me through my business email, **soundwaveskgh@gmail.com**.
 - 💼 I own my brand, Sonic Surge Studios.
-- 🔗 Here's a link to all my other stuff: **[zaap.bio/EchoPulseX](https://zaap.bio/EchoPulseX)**
+- 🔗 Here's a link to all my other stuff: **[zaap.bio/EchoZentrix](https://zaap.bio/EchoZentrix)**
